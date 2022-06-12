@@ -1,18 +1,2 @@
 # airbnb
-그룹 프로젝트 #4
-
-# Team-17 Notion 
-
-[Team-17 Notion](https://url.kr/we8bp4)
-
-# 팀원소개 
-
-## Backend 
-
-- 반스 (https://github.com/ffinn92)
-- 피오 (https://github.com/NB993)
-
-## Android
-
-- Josh (https://github.com/junseokseo9306))
-- Wooki (https://github.com/banjjak2)
+## 그룹프로젝트 종료 후 미구현분 추가 구현용 저장소
